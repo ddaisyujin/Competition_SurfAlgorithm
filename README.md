@@ -1,6 +1,6 @@
 # Competition_SurfAlgorithm  
   
-## Surf 알고리즘을 통한 시차 보정  
+## Surf 알고리즘을 통한 시차 보정(with Matlab)  
 surf(Speeded up robust features)  
 surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features  
 대충 요약하자면, 빠르게 특징점을 찾아내는 알고리즘  
@@ -23,8 +23,6 @@ surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features
 <br><br><br><br>
 
 ![image](https://user-images.githubusercontent.com/35206992/103025492-44b3a680-4595-11eb-83eb-2cf45225d350.png)<br><br><br><br><br>
----
-<br><br><br><br><br>
 
 ## 사용 언어  
 Matlab  
