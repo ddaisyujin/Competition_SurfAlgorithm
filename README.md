@@ -17,7 +17,6 @@ surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features
   
   ## 결과    
   ---
-<br><br><br>
   ### 이미지를 크롭했을 때
 <br>
 
@@ -39,6 +38,15 @@ surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features
 ![image](https://user-images.githubusercontent.com/35206992/123571860-1776d800-d806-11eb-81db-771b5b7becf2.png)
 <br><br><br><br>
 
+---
+
+<br><br><br>
+  ### 영상 시차보정
+<br>
+
+![slow](https://user-images.githubusercontent.com/35206992/123573234-848b6d00-d808-11eb-9356-2d8c9c43f781.gif)
+
+<br><br><br><br>
 ---
 
 <br><br><br>
