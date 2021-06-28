@@ -15,10 +15,11 @@ surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features
 ![실험환경](https://user-images.githubusercontent.com/35206992/103025145-8859e080-4594-11eb-9451-51754dd57d55.png)  
   
   
-  ## 결과    
+  ## 결과  
+  <br>
+  
   ---
 
-<br><br><br>
   ### 이미지를 이동했을 때
 <br>
 
@@ -29,7 +30,6 @@ surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features
 
 ---
 
-<br><br><br>
   ### 영상 시차보정
 <br>
 
