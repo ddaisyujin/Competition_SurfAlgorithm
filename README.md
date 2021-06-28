@@ -3,7 +3,7 @@
 ## Surf 알고리즘을 통한 시차 보정 <br> 간단한 예제(with Matlab)  
 surf(Speeded up robust features)  
 surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features  
-대충 요약하자면, 빠르게 특징점을 찾아내는 알고리즘  
+간단하게 요약하자면, 빠르게 특징점을 찾아내는 알고리즘  
 <br><br>
 
 ## 사용 목적  
@@ -22,7 +22,13 @@ surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features
 ---
 <br><br><br><br>
 
-![image](https://user-images.githubusercontent.com/35206992/103025492-44b3a680-4595-11eb-83eb-2cf45225d350.png)<br><br><br><br><br>
+![image](https://user-images.githubusercontent.com/35206992/103025492-44b3a680-4595-11eb-83eb-2cf45225d350.png)
+<br><br><br><br><br>
+---
+<br><br><br><br>
+![image](https://user-images.githubusercontent.com/35206992/123571471-3c1e8000-d805-11eb-8f71-6272ce182f95.png)
+<br><br><br><br>
+
 
 ## 사용 언어  
 Matlab <br> 
