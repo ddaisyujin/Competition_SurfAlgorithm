@@ -19,22 +19,26 @@ surf 설명: https://en.wikipedia.org/wiki/Speeded_up_robust_features
 <br><br><br>
 이미지를 크롭했을 때(1)
 <br>
+
 ![image](https://user-images.githubusercontent.com/35206992/103025503-4bdab480-4595-11eb-90e0-ddd0d14ce2b5.png)<br> 
 <br><br><br><br>
 ---
 <br><br><br>
 이미지를 크롭했을 때(2)
 <br>
+
 ![image](https://user-images.githubusercontent.com/35206992/103025492-44b3a680-4595-11eb-83eb-2cf45225d350.png)
 <br><br><br><br><br>
 ---
 <br><br><br>
 이미지를 이동했을 때(1)
 <br>
+
 ![image](https://user-images.githubusercontent.com/35206992/123571471-3c1e8000-d805-11eb-8f71-6272ce182f95.png)
 <br><br><br>
-이미지를 이동했을 때(1)
+이미지를 이동했을 때(2)
 <br>
+
 ![image](https://user-images.githubusercontent.com/35206992/123571860-1776d800-d806-11eb-81db-771b5b7becf2.png)
 <br><br><br><br>
 
